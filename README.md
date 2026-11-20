@@ -25,7 +25,7 @@
 - 🎓 Final-year **Diploma in AI & Machine Learning** at Government Polytechnic Mumbai (2024–2027) — latest score **88.12%**
 - 💻 **Full-stack developer & freelancer** since July 2025 — I design, build and deploy real products for real clients
 - 🏥 Final-year project: **Better Clinic**, an AI-integrated healthcare platform with 163 passing automated tests
-- 🏆 **Smart India Hackathon** participant — 2025 & 2026 · Team guide at the **Apex Hackathon** · **Google Mumbai Data Challenge** (Google × Zindi)
+- 🏆 **Best Undergraduate, Google Mumbai Data Challenge** (Google × Zindi, Nov 2026), 5th place of 6000+ applications and youngest finalist · **Smart India Hackathon** participant 2025 & 2026 · Team guide at the **Apex Hackathon**
 - 🌱 Currently deep in **LLM apps, RAG and AI agents** — Python, TypeScript and everything in between
 - 📍 Based in **Thane, Mumbai, India** · Open to internships from **December 2026**
 - ⚡ Motto: *I build things that actually ship.*
@@ -79,7 +79,7 @@
 
 - 🥇 **Smart India Hackathon** — participant, 2025 & 2026
 - 🧭 **Apex Hackathon** — team guide / lead
-- 🌍 **Google Mumbai Data Challenge** (Google × Zindi) — hourly PM2.5 forecasting for Mumbai
+- 🏆 **Google Mumbai Data Challenge** (Google × Zindi), **Best Undergraduate Student award**, 5th place overall of 6000+ applications, youngest finalist, $500 cash prize. Hourly PM2.5 forecasting for Mumbai.
 - 🚀 **6+ production deployments** — client sites, live products and AI tools
 
 ---
